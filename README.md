@@ -32,6 +32,7 @@ Seguem algumas tecnologias que uso diariamente:
 ## 📚 Tecnologias em Aprimoramento
 
 I'm constantly trying to improve myself and learning new technologies and concepts:
+
 Estou constantemente me aprimorando em novas tecnologias e conceitos para melhorar minhas habilidades:
 --
 
