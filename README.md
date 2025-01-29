@@ -1,8 +1,8 @@
 # 🚀 Gustavo Brunner
 
-I'm a backend developer who loves to create scalable and efficient solutions. I have experiences in backend development using many technologies and frameworks. Throughtout the last almost 2 years as a freelancer, I have been part of project such as an inner process manager of a business, or a financial manager for a store.
+I'm a backend developer who loves to create scalable and efficient solutions. I have experiences in backend development using many technologies and frameworks. Throughtout the last almost two years as a freelancer, I have been part of project such as an inner process manager of a business, or a financial manager for a store. And five game projects for my Digital Games graduation course.
 --
-Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e eficientes. Tenho experiência em desenvolvimento backend utilizando diversas tecnologias e frameworks. Ao longo dos últimos quase dois anos, participei de projetos desde um gestor de processos internos de uma empresa, até um gestor de finanças para uma loja.
+Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e eficientes. Tenho experiência em desenvolvimento backend utilizando diversas tecnologias e frameworks. Ao longo dos últimos quase dois anos, participei de projetos desde um gestor de processos internos de uma empresa, até um gestor de finanças para uma loja. E cinco projeto de jogos para minha graduação em Jogos Digitais
 
 ---
 
