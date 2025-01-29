@@ -51,9 +51,10 @@ Estou constantemente me aprimorando em novas tecnologias e conceitos para melhor
 
 ## 📬 Conecte-se comigo
 
-Você pode entrar em contato comigo pelas redes sociais:
---
+
 Contact me through social media:
+--
+Você pode entrar em contato comigo pelas redes sociais:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-brunner/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobrunner.dev@gmail.com)
