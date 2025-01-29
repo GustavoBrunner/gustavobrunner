@@ -6,7 +6,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e efici
 
 ---
 
-## 🛠️ Main Tech Knoledges
+## 🛠️ Main Tech Knowledges
 
 Here are some of the technologies that I use on dayly basis:
 --
