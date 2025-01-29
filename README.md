@@ -43,9 +43,9 @@ Estou constantemente me aprimorando em novas tecnologias e conceitos para melhor
 
 ## 📊 Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Brunner-github&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo_Brunner-github&layout=compact&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Brunner-github&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo_Brunner-github&show_icons=true&theme=radical)
 
 ---
 
