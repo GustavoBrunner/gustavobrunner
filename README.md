@@ -8,7 +8,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e efici
 
 ## 🛠️ Main Tech Knowledges
 
-Here are some of the technologies that I use on dayly basis:
+Here are some of the technologies that I use on daily basis:
 Seguem algumas tecnologias que uso diariamente:
 --
 
