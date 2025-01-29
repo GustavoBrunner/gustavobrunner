@@ -9,8 +9,8 @@ Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e efici
 ## 🛠️ Main Tech Knowledges
 
 Here are some of the technologies that I use on dayly basis:
---
 Seguem algumas tecnologias que uso diariamente:
+--
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -32,8 +32,8 @@ Seguem algumas tecnologias que uso diariamente:
 ## 📚 Tecnologias em Aprimoramento
 
 I'm constantly trying to improve myself and learning new technologies and concepts:
---
 Estou constantemente me aprimorando em novas tecnologias e conceitos para melhorar minhas habilidades:
+--
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -53,8 +53,8 @@ Estou constantemente me aprimorando em novas tecnologias e conceitos para melhor
 
 
 Contact me through social media:
---
 Você pode entrar em contato comigo pelas redes sociais:
+--
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-brunner/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobrunner.dev@gmail.com)
