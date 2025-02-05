@@ -9,6 +9,7 @@ Sou um desenvolvedor backend apaixonado por criar soluções escaláveis e efici
 ## 🛠️ Main Tech Knowledges
 
 Here are some of the technologies that I use on daily basis:
+--
 Seguem algumas tecnologias que uso diariamente:
 --
 
@@ -34,7 +35,7 @@ Seguem algumas tecnologias que uso diariamente:
 ## 📚 Tecnologias em Aprimoramento
 
 I'm constantly trying to improve myself and learning new technologies and concepts:
-
+--
 Estou constantemente me aprimorando em novas tecnologias e conceitos para melhorar minhas habilidades:
 --
 
@@ -61,6 +62,7 @@ Estou constantemente me aprimorando em novas tecnologias e conceitos para melhor
 
 
 Contact me through social media:
+--
 Você pode entrar em contato comigo pelas redes sociais:
 --
 
